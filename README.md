@@ -1,3 +1,12 @@
+## Group Members
+
+Contributors:
+
+- Salhadin Assefa — ID No: UGR/1616/15
+- Tesfahun Kere — ID No: UGR/3338/15
+- Mekunint Werkie — ID No: UGR/2270/15
+- Nebyu Minuyelet — ID No: UGR/0407/15
+
 # K-Means Clustering (NumPy implementation)
 
 This project implements the K-Means clustering algorithm using basic Python and NumPy (no high-level ML libraries).
